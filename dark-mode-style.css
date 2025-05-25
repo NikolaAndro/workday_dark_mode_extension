@@ -43,3 +43,9 @@
     background-color: #222 !important;
     color: #ffffff !important;
 }
+
+[data-part="greeting-message"],
+[data-part="message"]
+{
+    color: #ffffff !important;
+}
