@@ -7,7 +7,10 @@
 .WJTL, .WGUL,
 .WOKK.WKJK.WAHK,
 .WOL2>.WJXO, .WLL2>.WJXO, .WML2,
-.WJJ2{
+.WJJ2,
+.WON2>.WKYO, .WLN2>.WKYO, .WMN2,
+.WJL2
+{
     background-color: #222 !important;
     color: #ffffff;
 }
@@ -45,7 +48,12 @@
 }
 
 [data-part="greeting-message"],
-[data-part="message"]
+[data-part="message"],
+.WCMK.WPKK .WBJK
 {
     color: #ffffff !important;
+}
+
+.WCMK.WPKK.WFIK{
+    background-color: #222 !important;
 }
