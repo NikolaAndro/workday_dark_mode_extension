@@ -1,5 +1,7 @@
 # Workday Dark Mode Browser Extension
 
+![preview](images/preview.png)
+
 ## How to load this extension to Microsoft Edge?
 
 1. Go to `edge://extensions/`
@@ -13,3 +15,8 @@
 2. Enable `Developer mode` by toggling the `switch in the top-right corner` of the extensions page.
 3. Click the `Load unpacked button`.
 4. Select the **FOLDER** that contains the code for this extension.
+
+
+# Contributions
+
+Feel free to contribute. This is a large platform - many little tweaks to be made.
